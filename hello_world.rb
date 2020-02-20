@@ -1,2 +1,2 @@
-put "Hello World!"
-ruby hello_world.rb
+puts "Hello World!"
+$ Ruby hello_world.#!/usr/bin/env ruby -wKU
